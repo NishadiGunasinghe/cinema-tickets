@@ -27,10 +27,12 @@ This service implements `TicketService`, which:
 
   ### Install Dependencies
   
-    ```bash
+    bash
+    
     npm install
 
   ### Run Tests
   
-    ```bash
+    bash
+    
     npm test
