@@ -40,4 +40,5 @@ This service implements `TicketService`, which:
 
   ### Run Tests
     ```bash
+    npm install --save-dev jest
     npm test
