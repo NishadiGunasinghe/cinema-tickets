@@ -3,7 +3,7 @@
 A Node.js application that processes ticket purchase requests, including payment calculation, payment completion, and seat reservations according to strict business rules.
 
 ---
-## Obectives
+## Objectives
 
 This service implements `TicketService`, which:
   - Validates ticket purchase requests according to the given business rules.
@@ -26,9 +26,9 @@ This service implements `TicketService`, which:
     - npm or yarn
 
   ### Install Dependencies
-    `bash
+    ```bash
     npm install
 
   ### Run Tests
-    `bash
+    ```bash
     npm test
