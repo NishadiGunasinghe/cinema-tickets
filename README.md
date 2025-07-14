@@ -26,9 +26,9 @@ This service implements `TicketService`, which:
     - npm or yarn
 
   ### Install Dependencies
-    ```bash
+    bash
     npm install
 
   ### Run Tests
-    ```bash
+    bash
     npm test
