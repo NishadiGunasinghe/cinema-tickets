@@ -12,15 +12,6 @@ This service implements `TicketService`, which:
   - Interacts with external `TicketPaymentService` and `SeatReservationService`.
 
 --
-## 🧠 Business Rules
-
-| Ticket Type | Price | Requires Seat   |
-|-------------|-------|-----------------|
-| INFANT      | £0    | ❌             |
-| CHILD       | £15   | ✅             |
-| ADULT       | £25   | ✅             |
-
---
 ## Validation Rules
   - At least one ticket must be purchased.
   - A maximum of 25 tickets are allowed per request.
