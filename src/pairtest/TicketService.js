@@ -82,7 +82,6 @@ export default class TicketService {
     return totalCost;
   }
 
-  //existing method
   purchaseTickets(accountId, ...ticketTypeRequests) {
 
     // Step 1: Validate the account ID
