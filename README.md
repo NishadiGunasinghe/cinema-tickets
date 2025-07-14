@@ -1,9 +1,9 @@
-# 🎟️ Cinema Ticket Booking Service
+# Cinema Ticket Booking Service
 
 A Node.js application that processes ticket purchase requests, including payment calculation, payment completion, and seat reservations according to strict business rules.
 
 ---
-## 📌 Objectives
+## Obectives
 
 This service implements `TicketService`, which:
   - Validates ticket purchase requests according to the given business rules.
@@ -19,17 +19,16 @@ This service implements `TicketService`, which:
   - Infants do not reserve a seat.
 
 --
-## 🚀 Getting Started
+## Getting Started
 
-  ### ✅ Prerequisites
+  ### Prerequisites
     - Node.js
     - npm or yarn
 
-  ### 📦 Install Dependencies
-    ```bash
+  ### Install Dependencies
+    `bash
     npm install
 
   ### Run Tests
-    ```bash
-    npm install --save-dev jest
+    `bash
     npm test
